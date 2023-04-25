@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="52830b05-a19a-4d0e-811b-16223359083a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1nSgat2NAcyY821Rs7f9yLjC86G" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.setting">
+    <configuration name="setting" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="bili" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/setting.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="try" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="bili" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/try.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="try1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="bili" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/bili" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bili/try1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="wordcloud1 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="bili" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/wordcloud1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="wordcloud1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="bili" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="D:\Workspaces\pyEnvs\bishe\bili\wordcloud1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.setting" />
+        <item itemvalue="Python.wordcloud1" />
+        <item itemvalue="Python.wordcloud1 (1)" />
+        <item itemvalue="Python.try1" />
+        <item itemvalue="Python.try" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="52830b05-a19a-4d0e-811b-16223359083a" name="Default Changelist" comment="" />
+      <created>1611388972584</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1611388972584</updated>
+      <workItem from="1611388975190" duration="2950000" />
+      <workItem from="1611412878430" duration="2041000" />
+      <workItem from="1611453896913" duration="8573000" />
+      <workItem from="1611539360293" duration="211000" />
+      <workItem from="1611756424191" duration="2941000" />
+      <workItem from="1611800403739" duration="6036000" />
+      <workItem from="1611828550466" duration="2763000" />
+      <workItem from="1611842787517" duration="6059000" />
+      <workItem from="1611884448158" duration="8783000" />
+      <workItem from="1611919776357" duration="9799000" />
+      <workItem from="1611972264460" duration="5677000" />
+      <workItem from="1611991203835" duration="12367000" />
+      <workItem from="1612013702237" duration="1058000" />
+      <workItem from="1612015192423" duration="151000" />
+      <workItem from="1612015519035" duration="760000" />
+      <workItem from="1613833306219" duration="2294000" />
+      <workItem from="1613911739008" duration="1451000" />
+      <workItem from="1613959748532" duration="14055000" />
+      <workItem from="1614241288223" duration="1745000" />
+      <workItem from="1615207217124" duration="3127000" />
+      <workItem from="1615271327196" duration="4435000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1296" height="237" key="GridCell.Tab.0.bottom" timestamp="1615274970151">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1296" height="237" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1615274970151" />
+    <state width="1296" height="237" key="GridCell.Tab.0.center" timestamp="1615274970151">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1296" height="237" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1615274970151" />
+    <state width="1296" height="237" key="GridCell.Tab.0.left" timestamp="1615274970151">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1296" height="237" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1615274970151" />
+    <state width="1296" height="237" key="GridCell.Tab.0.right" timestamp="1615274970151">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1296" height="237" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1615274970151" />
+    <state width="1296" height="69" key="GridCell.Tab.1.bottom" timestamp="1614001502602">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1296" height="69" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1614001502602" />
+    <state width="1296" height="69" key="GridCell.Tab.1.center" timestamp="1614001502602">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1296" height="69" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1614001502602" />
+    <state width="1296" height="69" key="GridCell.Tab.1.left" timestamp="1614001502602">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1296" height="69" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1614001502602" />
+    <state width="1296" height="69" key="GridCell.Tab.1.right" timestamp="1614001502602">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1296" height="69" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1614001502602" />
+    <state x="71" y="0" key="SettingsEditor" timestamp="1611389243082">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="71" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1611389243082" />
+    <state x="315" y="152" key="com.intellij.ide.util.TipDialog" timestamp="1615272101067">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="315" y="152" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1615272101067" />
+    <state x="262" y="-1" width="840" height="1034" key="search.everywhere.popup" timestamp="1611454242644">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="262" y="-1" width="840" height="1034" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1611454242644" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/setting.py</url>
+          <line>20</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/bili$try1.coverage" NAME="try1 Coverage Results" MODIFIED="1613912488005" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bili" />
+    <SUITE FILE_PATH="coverage/bili$try.coverage" NAME="try Coverage Results" MODIFIED="1613912398639" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/bili$fenci1.coverage" NAME="wordcloud1 Coverage Results" MODIFIED="1614001414546" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/bili$start.coverage" NAME="start Coverage Results" MODIFIED="1613838918467" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bili/spiders" />
+    <SUITE FILE_PATH="coverage/bili$wordcloud1__1_.coverage" NAME="wordcloud1 (1) Coverage Results" MODIFIED="1613985477366" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/bili$setting.coverage" NAME="setting Coverage Results" MODIFIED="1615274970140" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
