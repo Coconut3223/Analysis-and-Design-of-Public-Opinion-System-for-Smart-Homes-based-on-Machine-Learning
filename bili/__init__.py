@@ -1,0 +1,2 @@
+def setting():
+    return None
